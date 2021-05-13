@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Newerdim
 - 👀 I’m interested in programming and cycling
-- 🌱 I’m currently learning microservices in .net
+- 🌱 I’m currently learning microservices in **.NET Core**
