@@ -24,6 +24,8 @@
 <img align="left" alt="C#" width="26px" src="https://api.iconify.design/logos/c-sharp.svg" />
 <img align="left" alt=".NET" width="26px" src="https://api.iconify.design/logos/dotnet.svg" />
 <img align="left" alt="SQL" width="26px" src="https://api.iconify.design/carbon/sql.svg?color=%232e73f2" />
+<img align="left" alt="Docker" width="26px" src="https://api.iconify.design/logos/docker-icon.svg" />
+<img align="left" alt="Linux" width="26px" src="https://api.iconify.design/flat-color-icons/linux.svg" />
 
 <br />
 
