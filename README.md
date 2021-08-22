@@ -6,13 +6,6 @@
 - 👯 I'm looking to collaborate with other content creators
 - 🏋🏻 I love lifting heavy weights
 
-## Connect with me:
-
-[<img align="left" alt="Newerdim | LinkedIn" width="22px" src="https://api.iconify.design/logos/linkedin-icon.svg?color=%232e73f2" />][linkedin]
-[<img align="left" alt="Newerdim | Website" width="22px" src="https://api.iconify.design/pepicons/internet.svg?color=%232e73f2" />][website]
-
-<br />
-
 ## Languages and Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://api.iconify.design/vscode-icons/file-type-html.svg" />
@@ -26,6 +19,12 @@
 <img align="left" alt="SQL" width="26px" src="https://api.iconify.design/carbon/sql.svg?color=%232e73f2" />
 <img align="left" alt="Docker" width="26px" src="https://api.iconify.design/logos/docker-icon.svg" />
 <img align="left" alt="Linux" width="26px" src="https://api.iconify.design/flat-color-icons/linux.svg" />
+
+<br />
+
+## Connect with me:
+
+[<img align="left" alt="Newerdim | LinkedIn" width="22px" src="https://api.iconify.design/logos/linkedin-icon.svg?color=%232e73f2" />][linkedin]
 
 <br />
 
