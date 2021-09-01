@@ -29,4 +29,4 @@
 <br />
 
 [website]: https://newerdim.com
-[linkedin]: https://linkedin.com/in/Newerdim
+[linkedin]: https://www.linkedin.com/in/sebastian-naczy%C5%84ski-47499021a/
