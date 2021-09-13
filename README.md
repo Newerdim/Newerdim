@@ -3,7 +3,6 @@
 ## I'm a Full Stack Web Developer!
 
 - 🌱 I'm currently learning **ASP.NET Core**, **Angular** and **Linux**
-- 👯 I'm looking to collaborate with other content creators
 - 🏋🏻 I love lifting heavy weights
 
 ## Languages and Tools:
